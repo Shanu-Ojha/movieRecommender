@@ -107,7 +107,6 @@ streamlit==1.40.2
 tenacity==9.0.0
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
-tensorflow @ file:///C:/Users/ASUS/Downloads/tensorflow-2.18.0-cp312-cp312-win_amd64.whl#sha256=a701c2d3dca5f2efcab315b2c217f140ebd3da80410744e87d77016b3aaf53cb
 tensorflow_intel==2.18.0
 termcolor==2.5.0
 tf_keras==2.18.0
