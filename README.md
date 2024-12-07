@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Movie Recommendation System</title>
-</head>
 <body>
     <h1>Movie Recommendation System</h1>
     <p>A Python-based movie recommendation system that uses machine learning techniques like TF-IDF and cosine similarity to suggest movies based on a user's input.</p>
