@@ -59,7 +59,4 @@
     <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
     <h2>Contributing</h2>
     <p>Contributions are welcome! Feel free to fork the repository and submit a pull request.</p>
-    <h2>Contact</h2>
-    <p>For any inquiries, please contact <strong>your-email@example.com</strong>.</p>
 </body>
-</html>
