@@ -20,10 +20,10 @@
     <h2>Installation</h2>
     <ol>
         <li>Clone the repository:
-            <pre><code>git clone https://github.com/your-username/movie-recommendation-system.git</code></pre>
+            <pre><code>git clone https://github.com/Shanu-Ojha/movieRecommender.git</code></pre>
         </li>
         <li>Navigate to the project directory:
-            <pre><code>cd movie-recommendation-system</code></pre>
+            <pre><code>cd movieRecommender</code></pre>
         </li>
         <li>Install the required Python libraries:
             <pre><code>pip install -r requirements.txt</code></pre>
