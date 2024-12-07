@@ -17,7 +17,6 @@ cycler==0.12.1
 debugpy==1.8.9
 decorator==5.1.1
 deep-translator==1.11.4
-deepface @ file:///C:/Users/ASUS/Downloads/deepface-0.0.93-py3-none-any.whl#sha256=27043e1aa5df05a060bcfe1743409075c66f6f1de86a592ba0cdac79ac9e7987
 executing==2.1.0
 filelock==3.16.1
 fire==0.7.0
